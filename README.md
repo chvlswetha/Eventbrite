@@ -34,4 +34,7 @@ Logging all the messages while creating cart and saving orders.
 
 Integrated with StripeAPI for test Payment.
 
-Communication between services via messaging using RabbitMQ
+Communication between services via messaging using RabbitMQ.
+
+Assignment 3c: Demo : https://youtu.be/B23E2mRf7Xc
+
