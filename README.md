@@ -36,5 +36,9 @@ Integrated with StripeAPI for test Payment.
 
 Communication between services via messaging using RabbitMQ.
 
+
+Assignment 3a: Testing EventCatalog service and Pic srvice with Postman - https://youtu.be/OWZtvKkP0Z8
+
+
 Assignment 3c: Demo : https://youtu.be/B23E2mRf7Xc
 
