@@ -39,6 +39,7 @@ Communication between services via messaging using RabbitMQ.
 
 Assignment 3a: Testing EventCatalog service and Pic srvice with Postman - https://youtu.be/OWZtvKkP0Z8
 
+Assignment 3b : Swagger Documentation, Built MVC client for eventbrite, Added TokenService Microservice, Integrated with the client - https://youtu.be/oYooH315pHQ
 
 Assignment 3c: Demo : https://youtu.be/B23E2mRf7Xc
 
